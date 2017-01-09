@@ -1,6 +1,7 @@
 # KV
 
-**TODO: Add description**
+**MIX AND OTP**
+http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
 
 ## Installation
 
@@ -16,4 +17,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/kv](https://hexdocs.pm/kv).
-
